@@ -1,5 +1,5 @@
 # triangle problem
-This is a test project
+This is a school project
 
 ## Get started
 *You will need to have [Node.js](https://nodejs.org) installed & [Python 3](https://www.python.org/downloads/release/python-3810/) * [Python package manager](https://pip.pypa.io/en/stable/installation/)*
